@@ -1,0 +1,29 @@
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 300;
+    background-color: white;
+    text-align: left;
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+    font-style:italic;
+    background-color: white;
+    text-align:center;
+}
+h1{
+    background-color: white;
+    text-align: right;
+    color:brown
+}
+h2{
+    background-color: white;
+    color:darkblue;
+    text-align: center;
+}
+body {
+    background-image: url(../assets/img/backgroundimage.png);
+    text-align: left;
+}
